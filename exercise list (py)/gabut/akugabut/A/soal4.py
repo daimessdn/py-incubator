@@ -9,7 +9,7 @@ i = 0
 while (sum <= N):
 	num = int(input())
 	sum += num
-	i++         
+	i += 1
 
 print(i)
 print(sum)
